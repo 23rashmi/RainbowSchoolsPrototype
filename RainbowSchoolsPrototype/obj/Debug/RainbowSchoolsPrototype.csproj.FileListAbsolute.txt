@@ -1,0 +1,7 @@
+F:\MPHASIS DOCUMENTS\RainbowSchoolsPrototype\RainbowSchoolsPrototype\RainbowSchoolsPrototype\obj\Debug\RainbowSchoolsPrototype.csproj.AssemblyReference.cache
+F:\MPHASIS DOCUMENTS\RainbowSchoolsPrototype\RainbowSchoolsPrototype\RainbowSchoolsPrototype\obj\Debug\RainbowSchoolsPrototype.csproj.CoreCompileInputs.cache
+F:\MPHASIS DOCUMENTS\RainbowSchoolsPrototype\RainbowSchoolsPrototype\RainbowSchoolsPrototype\bin\Debug\RainbowSchoolsPrototype.exe.config
+F:\MPHASIS DOCUMENTS\RainbowSchoolsPrototype\RainbowSchoolsPrototype\RainbowSchoolsPrototype\bin\Debug\RainbowSchoolsPrototype.exe
+F:\MPHASIS DOCUMENTS\RainbowSchoolsPrototype\RainbowSchoolsPrototype\RainbowSchoolsPrototype\bin\Debug\RainbowSchoolsPrototype.pdb
+F:\MPHASIS DOCUMENTS\RainbowSchoolsPrototype\RainbowSchoolsPrototype\RainbowSchoolsPrototype\obj\Debug\RainbowSchoolsPrototype.exe
+F:\MPHASIS DOCUMENTS\RainbowSchoolsPrototype\RainbowSchoolsPrototype\RainbowSchoolsPrototype\obj\Debug\RainbowSchoolsPrototype.pdb
